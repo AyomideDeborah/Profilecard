@@ -31,3 +31,6 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   font-size: 18px;
 }
+.card-header {
+  background-image: url();
+}
